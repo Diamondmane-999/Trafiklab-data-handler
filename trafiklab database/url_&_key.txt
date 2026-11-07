@@ -1,0 +1,6 @@
+URL for all stations: https://realtime-api.trafiklab.se/v1/stops/list/?key={key}
+URL for searching for stations: https://realtime-api.trafiklab.se/v1/stops/name/{searchValue}?key={key}
+
+API Key: cb83344dac684c1097b8b9213868c71f
+
+!!! Note that these have to be inserted manually into code found in "fetcher.py". No automation is currently implemented !!!
